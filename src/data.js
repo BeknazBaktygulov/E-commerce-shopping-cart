@@ -1,4 +1,4 @@
-const data = {
+const data = {  // list of products. 3 by default. Can add more later to expand the list
     products: [
         {
             id: '1',
