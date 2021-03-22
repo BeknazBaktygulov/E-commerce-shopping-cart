@@ -2,10 +2,6 @@
   text-align: center;
 }
 
-/*
-.App {
-  text-align: left;
-} */
 
 .App-logo {
   height: 40vmin;
@@ -41,3 +37,6 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* Alignment per window off */ 
